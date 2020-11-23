@@ -1,0 +1,23 @@
+{
+  "name": "sweet-web-boilerplate",
+  "version": "1.0.0",
+  "description": "A clean and simple starting point (boilerplate) with HTML, CSS and JS and the tools you will need.",
+  "main": "index.js",
+  "repository": "https://github.com/hakandemiral/sweet-web-boilerplate.git",
+  "author": "Hakan Demiral <hakan.98@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.7",
+    "@babel/preset-env": "^7.12.7",
+    "browser-sync": "^2.26.13",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^5.0.0"
+  }
+}
